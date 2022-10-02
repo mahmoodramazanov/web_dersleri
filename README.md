@@ -1,2 +1,1 @@
-# test
-menim ilk repom
+# Bu menim ders repomdur
